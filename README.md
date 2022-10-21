@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Çağkan Gürsoy</h1>
+<h1 align="center">Hi 👋, I'm Cagkan Gursoy</h1>
 <h3 align="center">A data scientist candidate</h3>
 
 - 🔭 I’m currently working on **Miuul Data Scientist Bootcamp**
