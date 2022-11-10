@@ -1,6 +1,10 @@
 <h1 align="center">Hi 👋, I'm Cagkan Gursoy</h1>
 <h3 align="center">A Data Scientist candidate</h3>
 
+- 🔭 I’m currently working on **Miuul Data Science & Machine Learning Bootcamp**
+
+- 📫 How to reach me **cagkangrsy@gmail.com**
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/cagkangrsy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="cagkangrsy" height="30" width="40" /></a>
