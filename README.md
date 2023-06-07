@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Cagkan Gursoy</h1>
-<h3 align="center">A Data Scientist candidate</h3>
+<h3 align="center">Jr. Data Scientiste</h3>
 
-- 🔭 I’m currently working on **Miuul Data Science & Machine Learning Bootcamp**
+- 🔭 I’m currently working as a Teaching Assistant in **Miuul Data Science & Machine Learning Bootcamp**
 
 - 📫 How to reach me **cagkangrsy@gmail.com**
 
