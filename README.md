@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Cagkan Gursoy</h1>
 <h3 align="center">Jr. Data Scientist</h3>
 
-- 🔭 I’m currently working as a Teaching Assistant in **Miuul Data Science & Machine Learning Bootcamp**
+- 🔭 I’m currently working as a Data Analyst in **ICR Economic Research** | Data Science Teaching Assistant in **ICR Economic Research**
 
-- 🌱 I’m currently learning **Data Engineering**
+- 🌱 I’m currently learning **Deep Learning**
 
 - 📫 How to reach me **cagkangrsy@gmail.com**
 
