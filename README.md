@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Cagkan Gursoy</h1>
+<h1 align="center">Hi 👋, I'm Çağkan Gürsoy</h1>
 <h3 align="center">Data Scientist</h3>
 
 - 🔭 I’m currently working as a Data Analyst in **ICR Economic Research**
