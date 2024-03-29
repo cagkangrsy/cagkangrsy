@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Çağkan Gürsoy</h1>
 <h3 align="center">Data Scientist</h3>
 
-- 🔭 I’m currently working as a Data Analyst in **ICR Economic Research**
+- 🔭 I’m currently working as a Data Science Intern in **Innoppia**
 
-- 🌱 I’m currently learning **Data Engineering**
+- 🌱 I’m currently learning **AWS**
 
 - 📫 How to reach me **cagkangrsy@gmail.com**
 
