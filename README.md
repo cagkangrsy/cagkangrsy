@@ -1,12 +1,11 @@
 <!-- HEADER -->
 <h1 align="center">Hi 👋, I’m Çağkan Gürsoy</h1>
-<h3 align="center">Data Scientist / ML Engineer | CV & Data Science MSc @ NHL Stenden</h3>
+<h3 align="center">Data Scientist / ML Engineer | Data Science & Computer Vision MSc @ NHL Stenden</h3>
 <p align="center">
-  🔭 Currently working on Deep Learning & Computer Vision projects  
-  🌱 Learning advanced DL techniques  
+  🔭 Currently working on Deep Learning &amp; Computer Vision projects<br/>
+  🌱 Learning advanced DL techniques<br/>
   📫 Reach me at <a href="mailto:cagkangrsy@gmail.com">cagkangrsy@gmail.com</a>
 </p>
-
 ---
 
 ## 🔗 Connect with me
@@ -39,14 +38,17 @@
   <strong>Data Science:</strong>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" alt="Pandas" width="30" height="30"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" alt="NumPy" width="30" height="30"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikit-learn/scikit-learn-original.svg" alt="Scikit-Learn" width="30" height="30"/>
+  <!-- Use a Shields badge for scikit-learn -->
+  <img src="https://img.shields.io/badge/-Scikit--Learn-F7931E?style=flat&logo=scikit-learn&logoColor=white" alt="Scikit-Learn" width="30" height="30"/>
 
   <!-- Deep Learning & CV -->
   <strong>Deep Learning & CV:</strong>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original.svg" alt="PyTorch" width="30" height="30"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/opencv/opencv-original.svg" alt="OpenCV" width="30" height="30"/>
-  <img src="https://developer.nvidia.com/sites/default/files/akamai/cuda/images/cuda-logo.svg" alt="CUDA" width="30" height="30"/>
+  <!-- Use a Shields badge for CUDA -->
+  <img src="https://img.shields.io/badge/-CUDA-76B900?style=flat&logo=nvidia&logoColor=white" alt="CUDA" width="30" height="30"/>
 </p>
+
 
 ---
 
