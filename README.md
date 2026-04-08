@@ -1,7 +1,7 @@
 <!-- HEADER -->
 <h1 align="center">Hi 👋, I’m Çağkan Gürsoy</h1>
-<h3 align="center">Data Scientist / ML Engineer</h3>
-<h3 align="center">Data Science & Computer Vision MSc @ NHL Stenden</h3>
+<h3 align="center">ML / AI Engineer</h3>
+<h3 align="center"> Computer Vision & Data Science MSc. @ NHL Stenden</h3>
 <p align="center">
   🔭 Currently working on Deep Learning &amp; Computer Vision projects<br/>
   🌱 Learning advanced DL techniques<br/>
